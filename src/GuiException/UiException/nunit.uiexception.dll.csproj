@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>NUnit.UiException</RootNamespace>
     <AssemblyName>nunit.uiexception</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AssemblyOriginatorKeyFile>..\..\..\..\src\GuiException\UiException\stackSgKey.snk</AssemblyOriginatorKeyFile>
     <FileUpgradeFlags>

@@ -26,7 +26,7 @@
     <TargetZone>LocalIntranet</TargetZone>
     <GenerateManifests>false</GenerateManifests>
     <NoWin32Manifest>true</NoWin32Manifest>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <PublishUrl>http://localhost/nunit/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
